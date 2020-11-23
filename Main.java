@@ -20,7 +20,7 @@ public class Main
         
        
         AlphabeticSymptomsSorter alpha = new AlphabeticSymptomsSorter();
-        System.out.println(alpha.listNoSort());
+        System.out.println(alpha.treemap());
 
         
         
