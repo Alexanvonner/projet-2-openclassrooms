@@ -21,7 +21,8 @@ public class Main
        
         AlphabeticSymptomsSorter alpha = new AlphabeticSymptomsSorter();
         System.out.println(alpha.listNoSort());
-	
+
+        
         
         		
 		

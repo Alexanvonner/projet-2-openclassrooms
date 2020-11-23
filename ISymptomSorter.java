@@ -1,13 +1,15 @@
 package com.hemebiotech.analytics;
 
-import java.util.Map;
+import java.util.TreeMap;
 
 public interface ISymptomSorter {
 
 	
 	
-	public Map<String, Integer> listNoSort ();
+	public TreeMap<String, Integer> listNoSort ();
 	
+	
+
 	
 	
 
